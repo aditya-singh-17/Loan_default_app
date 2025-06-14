@@ -1,6 +1,6 @@
-streamlit
+streamlit==1.33.0
 joblib
-tensorflow
-xgboost
 scikit-learn
+xgboost
+tensorflow-cpu==2.13.0
 numpy
